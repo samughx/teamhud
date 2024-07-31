@@ -1,4 +1,4 @@
-# teamhud
+# Team HUD
 simple code made in like 10 minutes
 
 good team hud, team implemention is not built in yet ( only show for teamlers )
